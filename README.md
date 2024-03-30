@@ -1,6 +1,6 @@
 COVID-19 Data Visualization Using Tableau
-![Covid Dashboard](Covid Dasboard.png).
-Welcome to the COVID-19 Data Visualization repository! This repository houses a collection of interactive and insightful visualizations aimed at providing a comprehensive understanding of the COVID-19 pandemic.
+
+![Covid Dashboard](https://github.com/Stevebankz/Covid-19-Viz-with-Tableau/assets/26221888/f068e4ae-7d85-4664-9e1a-3d880a12271c)
 
 Key Features:
 Comprehensive Data Analysis: The visualizations in this repository leverage diverse datasets from reputable sources, including national health agencies, WHO, and CDC. Analyzing a wide range of COVID-19-related data, such as cases, deaths, recoveries.
